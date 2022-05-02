@@ -4,7 +4,7 @@ My name is Cecília, and I am participating on a programing Bootcamp. My goal is
 
 - 🌱 I’m currently learning the basics of software development
 
-- 📫 You can reach me on: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cecília-siman-4754811a5/)](https://www.linkedin.com/in/cecília-siman-4754811a5/)
+- 📫 You can reach me on [LinkedIn]
 
 
 - ⚡ Fun fact: I love dancing and drawing
@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: ... [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cecília-siman-4754811a5/)](https://www.linkedin.com/in/cecília-siman-4754811a5/)
 - 😄 Pronouns: any pronouns
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[LinkedIn]:https://www.linkedin.com/in/cecília-siman-4754811a5/
