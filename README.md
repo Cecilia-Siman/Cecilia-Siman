@@ -15,6 +15,12 @@ My name is Cecília, and I am participating on a programing Bootcamp. My goal is
 <img align="left" alt="Cecilia's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cecilia-Siman" />
 
 </details>
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Cecilia's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Cecilia-Siman&show_icons=true&hide_border=true" />
+
+</details>
 
 <!--
 **Cecilia-Siman/Cecilia-Siman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
