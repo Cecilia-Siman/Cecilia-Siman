@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 My name is Cecília, and I am participating on a programing Bootcamp. My goal is to become a Full Stack Developer by the end of 2022. Apart from that, I study physics at UFMG, I speak english and I am learning german.  
 
