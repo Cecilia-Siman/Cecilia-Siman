@@ -57,4 +57,5 @@ Here are some ideas to get you started:
   <img align="center" title="Git" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" title="npm" alt="npm" height="30" width="30" src="https://52299755-2fc3-452e-be1b-69e32c51ab1b.id.repl.co/npm.png" />&nbsp;
   <img align="center" title="Heroku" alt="Heroku" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
+  <img align="center" title="Docker" alt="Docker" height="30" width="30" src="https://img.icons8.com/fluency/2x/docker.png" />
 </div>
