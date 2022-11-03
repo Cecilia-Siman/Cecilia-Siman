@@ -3,7 +3,7 @@
 My name is Cecília, and I am a Full Stack Developer. Apart from that, I study physics at UFMG, I speak english and I am learning german.  
 
 - 🌱 I’m currently learning about Docker and AWS and developing some projects
-- 
+
 
 - 📫 You can reach me on [LinkedIn]
 
